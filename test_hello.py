@@ -5,4 +5,4 @@ def test_add():
     """
     Test case for add function
     """
-    assert 5 == add(2, 4)
+    assert 5 == add(2, 3)
